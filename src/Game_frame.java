@@ -1,10 +1,7 @@
 /*
+ * Lob Pong: CSC 171 Project
  * Shuyu Zhou
- * Assignment: Project 4
- * Lab Section: TR 12:30 -- 1:45pm
- * TA: Josh Churchin, Jingyao Zhan, Patrick Conway
  * 
- * I did not collaborate with anyone on this assignment
  */
 
 import java.awt.*;
