@@ -10,7 +10,7 @@ The player's goal is to catch the ball with the paddle as many times as possible
 - Please run Game_frame.java
 - Please move graphics folder into src folder if you run the file in terminal.
 
-### Setup
+### Setup:
 **1. level setup**
 
 This game has 3 levels in total. 
