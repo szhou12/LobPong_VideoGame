@@ -5,6 +5,8 @@ This is a Lob Pong game.
 The player's goal is to catch the ball with the paddle as many times as possible.
 ![2018-06-26 10 34 21](https://user-images.githubusercontent.com/35708194/41923838-1faa3c86-792e-11e8-8255-e7bd466657c4.png)
 
+![2018-06-26 10 34 32](https://user-images.githubusercontent.com/35708194/41923871-374cca52-792e-11e8-9703-3b3bdfb44f94.png)
+
 ## Getting Started
 ### How to Run:
 - Please run Game_frame.java
