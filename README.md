@@ -3,7 +3,7 @@
 ## Synopsis
 This is a Lob Pong game. 
 The player's goal is to catch the ball with the paddle as many times as possible.
-![example](https://user-images.githubusercontent.com/35708194/37881020-eff555ea-3056-11e8-8bd2-6a2718e73bdb.png)
+![2018-06-26 10 34 21](https://user-images.githubusercontent.com/35708194/41923838-1faa3c86-792e-11e8-8255-e7bd466657c4.png)
 
 ## Getting Started
 ### How to Run:
